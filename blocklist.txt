@@ -1,0 +1,5 @@
+# Guardian blocklist for Pi-hole
+# One domain per line. Lines starting with # are comments.
+# Pi-hole already loads StevenBlack's list separately, so only extras go here.
+# Add this file's raw URL to Pi-hole as an adlist:
+# https://raw.githubusercontent.com/shuturpihole/Blocklist/main/blocklist.txt
